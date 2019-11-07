@@ -35,3 +35,9 @@ a:hover{
 p{
 	color: white;
 }
+.cls3{
+	background-image: url('http://www.ectours.ma/wp-content/uploads/2019/04/essaouira.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 2px;
+}
