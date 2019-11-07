@@ -35,3 +35,9 @@ a:hover{
 p{
 	color: white;
 }
+
+.cls4{
+	background-image: url('https://i.pinimg.com/originals/ee/8b/d1/ee8bd155297aa4572c957726d8568f0f.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 2px;
