@@ -1,6 +1,6 @@
 .cls1{
 	background-color: #e6f2ff;
-	background-image: url('https://bsmedia.business-standard.com/_media/bs/img/article/2017-12/24/full/1514123504-3102.jpg');
+	background-image: url('https://cdn.finfeed.com/images/take_off.2e16d0ba.fill-510x286.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -23,7 +23,7 @@ a:hover{
 	transition: 2s;
 }
 .cls2{
-	background-image: url('https://q-xx.bstatic.com/images/hotel/max1024x768/153/153745308.jpg');
+	background-image: url('https://www.worldtravelguide.net/wp-content/uploads/2007/03/shu-hero-778448884-1440x823.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 2px;
@@ -36,17 +36,9 @@ p{
 	color: white;
 }
 
-<<<<<<< HEAD
-.cls4{
-	background-color: #e6f2ff;
-	background-image: url('https://q-xx.bstatic.com/images/hotel/max1024x768/153/153745308.jpg');
-	background-repeat: no-repeat;
-	background-size: cover;
-}');
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-=======
+
+
+
 .cls3{
 	background-image: url('http://www.ectours.ma/wp-content/uploads/2019/04/essaouira.jpg');
 	background-repeat: no-repeat;
@@ -57,18 +49,34 @@ p{
 
 
 .cls4{
-	background-image: url('https://i.pinimg.com/originals/ee/8b/d1/ee8bd155297aa4572c957726d8568f0f.jpg');
+	background-image: url('https://q-cf.bstatic.com/images/hotel/max1024x768/153/153745308.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 2px;
 
-.cls5{
-	background-image: url('https://en.infostourismemaroc.com/img/villes/Ifrane/ifrane-morocco-tourism-office-ifrane-tourism-stay-ifrane-travel-ifrane-visit-ifrane.jpg');
-	background-repeat: no-repeat;
-	background-size: cover;
-	border-radius: 2px;
+
 
 }
 
 
->>>>>>> ba9c8ce2b1baa9e3f552ad74d032c821cb7ecd31
+.cls5{
+	background-image: url('https://friendlymorocco.com/wp-content/uploads/2017/07/dakhla-beach-Morocco.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 2px;
+
+
+}
+
+
+
+.cls6{
+	background-image: url('https://friendlymorocco.com/wp-content/uploads/2017/05/ifrane-city.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 2px;
+
+
+
+
+
