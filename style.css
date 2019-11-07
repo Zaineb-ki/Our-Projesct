@@ -1,0 +1,37 @@
+.cls1{
+	background-color: #e6f2ff;
+	background-image: url('https://st2.depositphotos.com/3837271/6711/i/950/depositphotos_67115753-stock-photo-time-to-travel-wooden-sign.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#h1{
+	text-align: center;
+	color: cyan;
+}
+.h2{
+	color: white;
+}
+.h2:hover{
+ color: green;
+ transition: 3s;
+}
+a{
+	color: yellow;
+}
+a:hover{
+	color:red;
+	transition: 2s;
+}
+.cls2{
+	background-image: url('img3.JPG');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 2px;
+}
+#h{
+	text-align: center;
+	color: white;
+}
+p{
+	color: white;
+}
