@@ -23,7 +23,7 @@ a:hover{
 	transition: 2s;
 }
 .cls2{
-	background-image: url('https://www.challenge.ma/wp-content/uploads/2019/04/wOfm9H9XdlT8HhWyMPpJ03zCHrs.jpg');
+	background-image: url('https://q-xx.bstatic.com/images/hotel/max1024x768/153/153745308.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 2px;
@@ -34,4 +34,14 @@ a:hover{
 }
 p{
 	color: white;
+}
+
+.cls4{
+	background-color: #e6f2ff;
+	background-image: url('https://q-xx.bstatic.com/images/hotel/max1024x768/153/153745308.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}');
+	background-repeat: no-repeat;
+	background-size: cover;
 }
