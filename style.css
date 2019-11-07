@@ -36,8 +36,18 @@ p{
 	color: white;
 }
 
+
 .cls4{
 	background-image: url('https://i.pinimg.com/originals/ee/8b/d1/ee8bd155297aa4572c957726d8568f0f.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 2px;
+=======
+.cls5{
+	background-image: url('https://en.infostourismemaroc.com/img/villes/Ifrane/ifrane-morocco-tourism-office-ifrane-tourism-stay-ifrane-travel-ifrane-visit-ifrane.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 2px;
+
+}
+
