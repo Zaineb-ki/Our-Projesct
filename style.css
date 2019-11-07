@@ -36,6 +36,7 @@ p{
 	color: white;
 }
 
+<<<<<<< HEAD
 .cls4{
 	background-color: #e6f2ff;
 	background-image: url('https://q-xx.bstatic.com/images/hotel/max1024x768/153/153745308.jpg');
@@ -45,3 +46,29 @@ p{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+=======
+.cls3{
+	background-image: url('http://www.ectours.ma/wp-content/uploads/2019/04/essaouira.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 2px;
+}
+
+
+
+.cls4{
+	background-image: url('https://i.pinimg.com/originals/ee/8b/d1/ee8bd155297aa4572c957726d8568f0f.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 2px;
+
+.cls5{
+	background-image: url('https://en.infostourismemaroc.com/img/villes/Ifrane/ifrane-morocco-tourism-office-ifrane-tourism-stay-ifrane-travel-ifrane-visit-ifrane.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 2px;
+
+}
+
+
+>>>>>>> ba9c8ce2b1baa9e3f552ad74d032c821cb7ecd31
